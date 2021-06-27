@@ -7,4 +7,4 @@ Bugs may be found, tread carefully.
 
 ## Result
 
-![final_result_screenshot](https://github.com/devkaio/simcalc/blob/master/screenshots/home_screen.mp4 "Result Screenshot")
+![final_result_screenshot](https://github.com/devkaio/simcalc/blob/master/screenshots/home_screen.jpeg "Result Screenshot")
