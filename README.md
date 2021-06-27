@@ -1,10 +1,10 @@
-# #LeveUP1 | Raro Academy
+# #LeveUP2 | Raro Academy
 
 ## SimCalc
-Simple calculator using Rows, Columns, Buttons, StaggeredView and Math Expression Package for Flutter.
+Simple pocket calculator built in Flutter using Containers, Columns, Flexibles, Buttons and StaggeredView.
 
 Bugs may be found, tread carefully.
 
-## Screenshots
+## Result
 
-![final_result_screenshot](https://github.com/devkaio/simcalc/blob/master/screenshots/home_screen.jpeg "Result Screenshot")
+![final_result_screenshot](https://github.com/devkaio/simcalc/blob/master/screenshots/home_screen.mp4 "Result Screenshot")
